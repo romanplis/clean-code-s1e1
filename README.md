@@ -12,3 +12,5 @@
 - The appearance of the application has not been changed.
 - Alternate text is present for all necessary images.
 - The delete button animation works.
+
+Link to the project: https://romanplis.github.io/clean-code-s1e1/
